@@ -1,0 +1,8 @@
+# 根路径
+baseUrl = ""
+# 默认内容语言
+defaultContentLanguage = "zh-CN"
+# 主题
+theme = "mebius-theme-default"
+# 网站标题
+title = "Mebius"

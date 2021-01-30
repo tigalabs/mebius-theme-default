@@ -1,0 +1,28 @@
+# 主题名称 （建议带 mebius-theme- 前缀）
+name = "mebius-theme-default"
+# 版本
+version = "0.0.1"
+# 开源协议
+license = "MIT"
+# 描述
+description = "Mebius默认主题"
+# 主页
+homepage = "https://mebius.tigateam.com"
+# 标签
+tags = ["mebius", "theme", "default"]
+# 功能
+features = [
+  "cover-image",
+  "favicon",
+  "multilingual",
+  "pagination",
+  "social-menu",
+  "syntax-highlighting",
+  "SEO Optimized",
+]
+# 作者信息
+[author]
+# 名称
+name = "misitebao"
+# 主页
+homepage = "https://blog.misitebao.com/"
